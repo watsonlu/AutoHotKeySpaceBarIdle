@@ -10,5 +10,5 @@ This is useful for idling in video games.
 3. Run "Space.ahk" as admin (Shift+Right click might be needed)
 4. Open the window you need to idle in Windowed Mode and keep it open
 
-
+You can pause and stop the script by right clicking the icon in the taskbar
 
